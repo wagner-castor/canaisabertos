@@ -1,0 +1,117 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TV UNIVERSAL" tvg-name="TV UNIVERSAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="CANAIS ABERTOS",TV UNIVERSAL HD
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_e19afca3-3a34-4f9a-a4a6-88ae4fd749f5.m3u8
+
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",BAND SP HD
+https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2st7hmcdbFJdu6sbqs4urejVvh-74kEC1MMDaBM_bWVM)/dm/3/x80o7x4/d/live-4.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND HD 2" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",BAND HD 2
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1522032747.m3u8
+
+#EXTINF:-1 tvg-id="Cnt" tvg-name="CNT SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/646ee5304b659c7c667285357508fc07.webp" group-title="CANAIS ABERTOS",CNT SD
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
+
+#EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d763ea519688a3d155d370eaa3c9892b.webp" group-title="CANAIS ABERTOS",FUTURA HD
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",GLOBO SP 
+https://live-as-04-14.video.globo.com/h/0401660060039171920050516599736395938951835iUNmVyYAbBDAnMjyPFgzIQ/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/KJo8DRjzTFuxft_PfTeNMA/stream/ee93a8f6-14c6-47bf-af18-8e84e80577d8:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
+
+#EXTINF:-1 tvg-id="Rede Globo" tvg-name="Rede Globo" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",GLOBO SP HD 
+https://live.xvideosporn.me/p2p/globominas/chunks.m3u8?nimblesessionid=4681340&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjIgMzo1NTozMSBQTSZoYXNoX3ZhbHVlPVp2UWtSeEM3ZDI0QkYyNkJ0cklyRlE9PSZ2YWxpZG1pbnV0ZXM9OTA=
+
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV SHOW SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6328cc665a1b38bea0afe6e518fbdca5.webp" group-title="CANAIS ABERTOS" ,MASTER TV SHOW SD
+https://mastershowtv.videovox.pw:443/master6123/master6123/chunklist_w935811040.m3u8
+
+#EXTINF:-1 tvg-id="Rede Familia" tvg-name="REDE FAMÍLIA HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e102e2a838d5207b803272e0f31bfa79.webp" group-title="CANAIS ABERTOS" , REDE FAMÍLIA HD
+https://5a1c76baf08c0.streamlock.net:443/familia/smil:familia.smil/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="CANAIS ABERTOS",REDETV SP HD
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/chunklist_w912698562.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV MAIS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de5e2a5c9eef76effa75993a224b9e61.webp" group-title="CANAIS ABERTOS",REDE TV MAIS HD
+https://novo.bitstreaming.info:1936/8010/8010/chunklist_w981849136.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Record.jpg" group-title="CANAIS ABERTOS",RECORD SP HD
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Record.jpg" group-title="CANAIS ABERTOS",RECORD SC HD
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Record.jpg" group-title="CANAIS ABERTOS",RECORD MT HD
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Rede NGT" tvg-name="REDE NGT HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c24ac0f22000469a51f62eebae66ffb.webp" group-title="CANAIS ABERTOS",REDE NGT HD
+https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
+
+#EXTINF:-1 tvg-id="Rede UTV" tvg-name="REDE UTV HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74a615920288577b11ec8ae78badf28b.webp" group-title="CANAIS ABERTOS",REDE UTV HD
+https://srv4.zcast.com.br:443/redetvoficial/redetvoficial/chunklist_w1350446808.m3u8
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="REDE VIDA HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85e5f6b6aa459a384730e3b520e1e728.webp" group-title="CANAIS ABERTOS",REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="Sbt" tvg-name="SBT HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="CANAIS ABERTOS",SBT SP HD
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp" group-title="CANAIS ABERTOS",TV BRASIL HD
+https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLowaLfQdiCpDSAPTnI7rnbxbgG6qrOqRsPg7laiLRxPw)/dm/3/x82pp99/d/live-3.m3u8#cell=lsv4
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV CULTURA SP HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="CANAIS ABERTOS",TV CULTURA SP HD
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1114655560.m3u8
+
+#EXTINF:-1 tvg-id="RETRO CARTOON" tvg-name="RETRO CARTOON" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="CANAIS ABERTOS",RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w773981059.m3u8
+
+#EXTINF:-1 tvg-id="TV Camara" tvg-name="TV CÂMARA HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/409efcd480b8b67eb70d777756d8b962.webp" group-title="CANAIS ABERTOS" ,TV CÂMARA HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TV Diario" tvg-name="TV DIÁRIO HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="CANAIS ABERTOS" ,TV DIÁRIO HD
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZV0FJ-bgOMJ-tLbMmLwzsFxE39kgrTcEfOFNeGuHZPuN)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-id="TVE" tvg-name="TVE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb6da5dab7f3e21853e5719473fc29f0.webp" group-title="CANAIS ABERTOS" ,TVE HD
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w643317952.m3u8
+
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA SP HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e203baa61a997851f879286d0e262b59.webp" group-title="CANAIS ABERTOS" ,TV GAZETA SP HD
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vwQDsBX59ytWm5c3tqJ_1TxyIc6IQ7dS_AgEAKqoI5-Z)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-id="" tvg-name="TV LIBERDADE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3a52ba9e9fac75423d678ea2f9294f7.webp" group-title="CANAIS ABERTOS" ,TV LIBERDADE HD
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w27849746.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV MAIS BRASIL SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99952bc10e0b9a0eeb6f47cbf054a87e.webp" group-title="CANAIS ABERTOS" ,TV MAIS BRASIL SD
+https://srv5.zcast.com.br:443/tvmaisbrasil/tvmaisbrasil/chunklist_w149612716.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV MASTER HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d30f30e883e21db065fd78647a5cd16b.webp" group-title="CANAIS ABERTOS" ,TV MASTER HD
+https://virtues.es:1936/tvmaster/tvmaster/chunklist_w276394866.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV PADRE CICERO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dab5e88e8a6365ed0890db70b53b2764.webp" group-title="CANAIS ABERTOS" ,TV PADRE CICERO
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w2146516040.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8aee277c6f0b673837d4a25a9109a177.webp" group-title="CANAIS ABERTOS" ,TV NOVO TEMPO HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4e58712f10b3d9219c4207cc82f20dcd.webp" group-title="CANAIS ABERTOS" ,TV UNIÃO BRASILIA HD
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/chunklist_w1939477343.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV UNIÃO HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f88c0985cd9dcafd1347663418bb3c33.webp" group-title="CANAIS ABERTOS" ,TV UNIÃO NATAL HD
+https://j78dpx4jyq5r-hls-live.5centscdn.com/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5ce59e5a4f52bbc5c6419fe5a8674447.webp" group-title="CANAIS ABERTOS" ,GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w500240517.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CMC USA COUNTRY" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c02f85577db768820290745be6c4f476.webp" group-title="CANAIS ABERTOS" ,CMC USA COUNTRY
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="THE COUNTRY NETWORK" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00a8a25cef69947590ad0be896575a25.webp" group-title="CANAIS ABERTOS" ,THE COUNTRY NETWORK
+https://cdn.tcncountry.net/scte35_aws/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KISS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/710ba3616a11c8d9805cdfef9dde5700.webp" group-title="CANAIS ABERTOS" ,KISS TV
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TOP TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3858200bc307bc603e159858383c367c.webp" group-title="CANAIS ABERTOS" ,TOP TV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CATEDRAL DO ROCK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="CANAIS ABERTOS" ,CATEDRAL DO ROCK TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w845767721.m3u8
+
