@@ -67,7 +67,7 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w773981059.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV Diario" tvg-name="TV DIÁRIO HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="CANAIS ABERTOS" ,TV DIÁRIO HD
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZV0FJ-bgOMJ-tLbMmLwzsFxE39kgrTcEfOFNeGuHZPuN)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZf1CyLkW5De22HcaDBoUffEALJdnSfG6fwYV4ok2DO5t)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb6da5dab7f3e21853e5719473fc29f0.webp" group-title="CANAIS ABERTOS" ,TVE HD
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w643317952.m3u8
