@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="TV UNIVERSAL" tvg-name="TV UNIVERSAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="CANAIS ABERTOS",TV UNIVERSAL HD
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_e19afca3-3a34-4f9a-a4a6-88ae4fd749f5.m3u8
 
-#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",BAND SP HD
+#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",Band São Paulo
 https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoKdq6bfj8qspiF1Wo49aKwpIpAzJttl35RF0USD8ae4)/dm/3/x82cxbb/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND HD 2" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",BAND HD 2
