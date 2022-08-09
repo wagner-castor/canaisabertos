@@ -4,7 +4,7 @@
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_e19afca3-3a34-4f9a-a4a6-88ae4fd749f5.m3u8
 
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",BAND SP HD
-https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2st7hmcdbFJdu6sbqs4urejVvh-74kEC1MMDaBM_bWVM)/dm/3/x80o7x4/d/live-4.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoKdq6bfj8qspiF1Wo49aKwpIpAzJttl35RF0USD8ae4)/dm/3/x82cxbb/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND HD 2" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",BAND HD 2
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1522032747.m3u8
@@ -16,7 +16,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
 https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",GLOBO SP 
-https://live-as-04-14.video.globo.com/h/0401660060039171920050516599736395938951835iUNmVyYAbBDAnMjyPFgzIQ/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/KJo8DRjzTFuxft_PfTeNMA/stream/ee93a8f6-14c6-47bf-af18-8e84e80577d8:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
+https://live-as-04-14.video.globo.com/h/0401660096543301850678416600101435250338658QtucCIuiUiK2mtwdvxw0iw/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/KJo8DRjzTFuxft_PfTeNMA/stream/45abcaa7-2f71-484d-b874-6a9b25711490:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
 
 #EXTINF:-1 tvg-id="Rede Globo" tvg-name="Rede Globo" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",GLOBO SP HD 
 https://live.xvideosporn.me/p2p/globominas/chunks.m3u8?nimblesessionid=4681340&wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjIgMzo1NTozMSBQTSZoYXNoX3ZhbHVlPVp2UWtSeEM3ZDI0QkYyNkJ0cklyRlE9PSZ2YWxpZG1pbnV0ZXM9OTA=
