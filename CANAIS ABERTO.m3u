@@ -1,4 +1,4 @@
-#EXTM3U
+# EXTM3U url-tvg ="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
 
 #EXTINF:-1 tvg-id="TV UNIVERSAL" tvg-name="TV UNIVERSAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d8fb419ad2b89ff1302e149a9774bc5.webp" group-title="CANAIS ABERTOS",TV UNIVERSAL HD
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_e19afca3-3a34-4f9a-a4a6-88ae4fd749f5.m3u8
