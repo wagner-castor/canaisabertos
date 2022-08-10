@@ -52,7 +52,7 @@ https://srv4.zcast.com.br:443/redetvoficial/redetvoficial/chunklist_w1350446808.
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
 #EXTINF:-1 tvg-id="Sbt" tvg-name="SBT HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp" group-title="CANAIS ABERTOS",SBT Nacional
-https://youtu.be/ABVQXgr2LW4
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp" group-title="CANAIS ABERTOS",TV BRASIL HD
 https://stream-02.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLowaLfQdiCpDSAPTnI7rnbxbgG6qrOqRsPg7laiLRxPw)/dm/3/x82pp99/d/live-3.m3u8#cell=lsv4
