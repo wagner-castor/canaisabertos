@@ -4,10 +4,7 @@
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_e19afca3-3a34-4f9a-a4a6-88ae4fd749f5.m3u8
 
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",Band São Paulo
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsvEoVlF2XW2OfN_da-tzXyTYWEFyBmWBYjarwnetpL9)/dm/3/x82cxbb/d/live-4.m3u8#cell=lnyc
-
-#EXTINF:-1 tvg-id="Band HD" tvg-name="BAND HD 2" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",BAND HD 2
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1522032747.m3u8
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLsYBpxK2Txa_cqgsPRwxcFZ2nCzKVvrFArJKDcAQWfrM)/dm/3/x82cxbb/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Cnt" tvg-name="CNT SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/646ee5304b659c7c667285357508fc07.webp" group-title="CANAIS ABERTOS",CNT SD
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
@@ -16,7 +13,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
 https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",TV Globo São Paulo
-https://live-as-08-25.video.globo.com/h/0401660246718120958497916601603187115738386LZN6YSR1ru55Lt_yEGoJpA/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/f(codec=avc,dvr=180,i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/KJo8DRjzTFuxft_PfTeNMA/stream/862160be-ccac-4f13-b2a2-d3f2bccc6dd0:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
+https://live-as-11-36.video.globo.com/h/04016602934532305786033166020705312510196897nK0T6V0DxkTSgfJkXIdWg/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/f(codec=avc,dvr=180,i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/KJo8DRjzTFuxft_PfTeNMA/stream/b5b752bd-6ad2-4a9f-968d-4bf486f4f5f5:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER TV SHOW SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6328cc665a1b38bea0afe6e518fbdca5.webp" group-title="CANAIS ABERTOS" ,MASTER TV SHOW SD
 https://mastershowtv.videovox.pw:443/master6123/master6123/chunklist_w935811040.m3u8
@@ -25,7 +22,7 @@ https://mastershowtv.videovox.pw:443/master6123/master6123/chunklist_w935811040.
 https://5a1c76baf08c0.streamlock.net:443/familia/smil:familia.smil/chunklist_b1628000.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="CANAIS ABERTOS",Rede TV!
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w1204597828_b2793472.m3u8
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w555686819_b2793472.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV MAIS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de5e2a5c9eef76effa75993a224b9e61.webp" group-title="CANAIS ABERTOS",REDE TV MAIS HD
 https://novo.bitstreaming.info:1936/8010/8010/chunklist_w981849136.m3u8
@@ -61,13 +58,13 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w773981059.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV Diario" tvg-name="TV DIÁRIO HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="CANAIS ABERTOS" ,TV Diário
-https://stream-03.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbE8z9xLBMTBuEnnaOhyjq-jLWzYIUB4V_gJE9DzR2l1)/dm/3/x7txn7q/s/live-3.m3u8#cell=lsv4
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZe1szbExbWW48V2-x9yL0kMLWDg9yguaa6xuQiKbdl9H)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb6da5dab7f3e21853e5719473fc29f0.webp" group-title="CANAIS ABERTOS" ,TVE
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w643317952.m3u8
 
 #EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA SP HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e203baa61a997851f879286d0e262b59.webp" group-title="CANAIS ABERTOS" ,TV Gazeta
-https://stream-01.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v6CERLPjqHWRVjCFzaPqAj1RlKwR1MPdtFbofcRNqqA1)/dm/3/x89qors/d/live-4.m3u8#cell=lsv4
+https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vzXUeyWj1d-itA8OFLMNMB_Y8cjfRrf5gHt457yndR6d)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LIBERDADE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3a52ba9e9fac75423d678ea2f9294f7.webp" group-title="CANAIS ABERTOS" ,TV LIBERDADE HD
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w27849746.m3u8
