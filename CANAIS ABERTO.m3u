@@ -105,3 +105,7 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CATEDRAL DO ROCK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="CANAIS ABERTOS" ,CATEDRAL DO ROCK TV
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w845767721.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://i2.wp.com/telaviva.com.br/wp-content/uploads/2021/11/band-sports.png?fit=404%2C235&ssl=1" group-title="CANAIS ABERTOS" ,Band Sports
+https://live.xvideosporn.me/p2p/bandsport/chunks.m3u8?nimblesessionid=4782786&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMS8yMDIyIDg6NTQ6NTkgQU0maGFzaF92YWx1ZT04aXNiNUljaWpvbmxNanBTanUrVVZnPT0mdmFsaWRtaW51dGVzPTkw
+
+
