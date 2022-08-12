@@ -110,3 +110,6 @@ https://live.xvideosporn.me/p2p/bandsport/chunks.m3u8?nimblesessionid=4811328&wm
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh31LPRrdfJzKVEyBmWzGGQXderoZ4qxoGvoYv1Mjc8Hp8pDhdWJFEc2wBDQuITFGQUOw&usqp=CAU" group-title="CANAIS ABERTOS" ,Band News
 https://live.xvideosporn.me/p2p/bandnews/chunks.m3u8?nimblesessionid=4811360&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIyIDQ6NDU6MTEgUE0maGFzaF92YWx1ZT1CSVZRMkVHQXJUT2pMNXZtTVpBU1d3PT0mdmFsaWRtaW51dGVzPTkw
+
+#EXTINF:-1 tvg-id="" tvg-name="Vintge tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAIS ABERTOS" ,Vintge tv
+https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1536059570.m3u8
