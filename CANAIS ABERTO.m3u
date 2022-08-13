@@ -22,7 +22,7 @@ https://mastershowtv.videovox.pw:443/master6123/master6123/chunklist_w935811040.
 https://5a1c76baf08c0.streamlock.net:443/familia/smil:familia.smil/chunklist_b1628000.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDETV HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="CANAIS ABERTOS",Rede TV!
-http://168.205.87.198:8555/live/antony/1234/102.m3u8
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1144628985.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV MAIS HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de5e2a5c9eef76effa75993a224b9e61.webp" group-title="CANAIS ABERTOS",REDE TV MAIS HD
 https://novo.bitstreaming.info:1936/8010/8010/chunklist_w981849136.m3u8
@@ -106,10 +106,10 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w845767721.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://media.cdnandroid.com/71/f7/2f/27/imagen-band-sports-0big.jpg" group-title="CANAIS ABERTOS" ,Band Sports
-https://live.xvideosporn.me/p2p/bandsport/chunks.m3u8?nimblesessionid=4832160&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIyIDU6MDE6MzggUE0maGFzaF92YWx1ZT0veXU4d2Nrc2xwSm1rR2pSNTFXWkVnPT0mdmFsaWRtaW51dGVzPTkw
+https://live.xvideosporn.me/p2p/bandsport/chunks.m3u8?nimblesessionid=4838047&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIyIDc6MTE6NTUgUE0maGFzaF92YWx1ZT1Heml2T0hVZm9RWW5OR3owa0ZrMyt3PT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh31LPRrdfJzKVEyBmWzGGQXderoZ4qxoGvoYv1Mjc8Hp8pDhdWJFEc2wBDQuITFGQUOw&usqp=CAU" group-title="CANAIS ABERTOS" ,Band News
-https://live.xvideosporn.me/p2p/bandnews/chunks.m3u8?nimblesessionid=4832267&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIyIDU6MDQ6NTQgUE0maGFzaF92YWx1ZT14cFlmcHlpNGtrTjlvOU5ydDRVMjhBPT0mdmFsaWRtaW51dGVzPTkw
+https://live.xvideosporn.me/p2p/bandnews/chunks.m3u8?nimblesessionid=4838197&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIyIDc6MTM6MzggUE0maGFzaF92YWx1ZT13eUNxRThLeWZrTXZlbEdtZHN3UmxnPT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-id="" tvg-name="Vintge tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAIS ABERTOS" ,Vintge tv
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1536059570.m3u8
