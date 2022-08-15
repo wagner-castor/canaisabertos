@@ -33,6 +33,9 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Record.jpg" group-title="CANAIS ABERTOS",RECORD MT HD
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Record.jpg" group-title="CANAIS ABERTOS",RECORD SP HD
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1673156183.m3u8
+
 #EXTINF:-1 tvg-id="Rede NGT" tvg-name="REDE NGT HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c24ac0f22000469a51f62eebae66ffb.webp" group-title="CANAIS ABERTOS",REDE NGT HD
 https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
 
