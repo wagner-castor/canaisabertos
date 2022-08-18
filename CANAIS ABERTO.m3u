@@ -13,7 +13,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
 https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",TV Globo São Paulo
-https://live.embedflix.net/p2p/globosp/chunks.m3u8?nimblesessionid=4940141&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDExOjA3OjUxIFBNJmhhc2hfdmFsdWU9THRrZkY0M2VrSGJFZCtuNmFKKzJ0dz09JnZhbGlkbWludXRlcz05MA==
+https://live-as-09-18.video.globo.com/h/0401660949214191932047216608628145114079578F5dBbeqnJq4RMS1FFMfRlQ/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/KJo8DRjzTFuxft_PfTeNMA/stream/03c50e16-1fb8-4212-870a-01e44a7e167a:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER TV SHOW SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6328cc665a1b38bea0afe6e518fbdca5.webp" group-title="CANAIS ABERTOS" ,MASTER TV SHOW SD
 https://mastershowtv.videovox.pw:443/master6123/master6123/chunklist_w935811040.m3u8
@@ -109,10 +109,10 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w845767721.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://media.cdnandroid.com/71/f7/2f/27/imagen-band-sports-0big.jpg" group-title="CANAIS ABERTOS" ,Band Sports
-https://live.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=4941584&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDExOjE3OjEyIFBNJmhhc2hfdmFsdWU9Snl1QUl5TFc1V2RWb1V0U1Z6S0ZaQT09JnZhbGlkbWludXRlcz05MA==
+https://live.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=4971426&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIyIDEwOjQ4OjA2IFBNJmhhc2hfdmFsdWU9b2hsRzErZ2NHazQ3RDdKVzgybVFIUT09JnZhbGlkbWludXRlcz05MA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh31LPRrdfJzKVEyBmWzGGQXderoZ4qxoGvoYv1Mjc8Hp8pDhdWJFEc2wBDQuITFGQUOw&usqp=CAU" group-title="CANAIS ABERTOS" ,Band News
-https://live.embedflix.net/p2p/bandnews/chunks.m3u8?nimblesessionid=4942072&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDExOjIwOjE2IFBNJmhhc2hfdmFsdWU9OUlPb1MzT2JvbjlBT3RHaW9jOFUyZz09JnZhbGlkbWludXRlcz05MA==
+https://live.embedflix.net/p2p/bandnews/chunks.m3u8?nimblesessionid=4971483&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIyIDEwOjQ5OjMyIFBNJmhhc2hfdmFsdWU9MGw3TnRwT1ZPWElhbm1DNTVhSEN6UT09JnZhbGlkbWludXRlcz05MA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Vintge tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAIS ABERTOS" ,Vintge tv
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1536059570.m3u8
