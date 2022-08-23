@@ -13,7 +13,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
 https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",TV Globo São Paulo
-https://live-as-03-25.video.globo.com/h/0401661183288122865575516610968881660968628SSb4FV9Td_0txnNCIOLYaA/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/KJo8DRjzTFuxft_PfTeNMA/stream/4f1ba394-9360-46ef-ac9d-8c120a79140d:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
+https://live-as-01-18.video.globo.com/h/0401661364115903808352116612777158460654028_2qDgYlZCG2Mkp51Mi8Pkg/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/KJo8DRjzTFuxft_PfTeNMA/stream/270feb94-d4bf-4d23-8e53-0e9c0d576858:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER TV SHOW SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6328cc665a1b38bea0afe6e518fbdca5.webp" group-title="CANAIS ABERTOS" ,MASTER TV SHOW SD
 https://mastershowtv.videovox.pw:443/master6123/master6123/chunklist_w935811040.m3u8
@@ -61,13 +61,13 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w773981059.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV Diario" tvg-name="TV DIÁRIO HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="CANAIS ABERTOS" ,TV Diário
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZXimHR4RL7AyV_w4hy0u1bi3yzT_gjIB1xxHthnVTpb2)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZREmaZ-wBSFR__IXDYdUG29xM2Jc31MMU6Eur0hpe6yP)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb6da5dab7f3e21853e5719473fc29f0.webp" group-title="CANAIS ABERTOS" ,TVE
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w643317952.m3u8
 
 #EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA SP HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e203baa61a997851f879286d0e262b59.webp" group-title="CANAIS ABERTOS" ,TV Gazeta
-https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v-iKsYL1S78UoGmkScwWJ08fpk8baQ3oOV71ntnYpnrj)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vxgjJPt7yQly4ix3zalDldD286yGmWJ9K5Ro1A0pq8c0)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LIBERDADE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3a52ba9e9fac75423d678ea2f9294f7.webp" group-title="CANAIS ABERTOS" ,TV LIBERDADE HD
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w27849746.m3u8
@@ -109,10 +109,10 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w845767721.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://media.cdnandroid.com/71/f7/2f/27/imagen-band-sports-0big.jpg" group-title="CANAIS ABERTOS" ,Band Sports
-https://aipaipara.xyz/br/band-sports/tracks-v1a1/mono.m3u8?token=c26688ad40d77d3b3a5925ba0925f9658453325e-3abc0b17314206910480876a04ff3ab1-1661100258-1661096658
+https://aipaipara.xyz/band-sports/tracks-v1a1/mono.m3u8?token=a49279dd10b76eb0787f563bcce6ec71f4702cb1-49543d9d8b7c47226dc10769432d4566-1661281076-1661277476
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh31LPRrdfJzKVEyBmWzGGQXderoZ4qxoGvoYv1Mjc8Hp8pDhdWJFEc2wBDQuITFGQUOw&usqp=CAU" group-title="CANAIS ABERTOS" ,Band News
-https://aipaipara.xyz/br/band-news/tracks-v1a1/mono.m3u8?token=b17de01cf76d048e5a4ce8186e2dae203267a265-b6e3ab8a08d34df4cf3982c67d4ca9ef-1661100346-1661096746
+https://aipaipara.xyz/br/band-news/tracks-v1a1/mono.m3u8?token=d0550a4bbc68ebc5f1c448c20e0f1b7cfd7cca3a-151fca2487247387f285a6434d6d0b1a-1661281206-1661277606
 
 #EXTINF:-1 tvg-id="" tvg-name="Vintge tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAIS ABERTOS" ,Vintge tv
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1536059570.m3u8
