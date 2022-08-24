@@ -117,8 +117,8 @@ https://aipaipara.xyz/br/band-news/tracks-v1a1/mono.m3u8?token=d0550a4bbc68ebc5f
 #EXTINF:-1 tvg-id="" tvg-name="Vintge tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAIS ABERTOS" ,Vintge tv
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1536059570.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/Discovery-Turbo.jpg" group-title="CANAIS ABERTOS" ,Premiere Clubes
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/premiere-clube.jpg" group-title="CANAIS ABERTOS" ,Premiere Clubes
 https://aipaipara.xyz/br/premiereclube/tracks-v1a1/mono.m3u8?token=4ee4bdd967503e072ef03ae7dee7f9ebf5142665-92b9f13864cf3396e64dbead3975d1f2-1661355603-1661352003
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Brasil" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/premiere-clube.jpg" group-title="CANAIS ABERTOS" ,Discovery Turbo Brasil
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Brasil" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/Discovery-Turbo.jpg" group-title="CANAIS ABERTOS" ,Discovery Turbo Brasil
 https://live.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=7362&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDIyIDM6MjE6MjIgUE0maGFzaF92YWx1ZT1IVjZuUnc3UVBUOU9GQ1I5RUNNYWt3PT0mdmFsaWRtaW51dGVzPTkw
