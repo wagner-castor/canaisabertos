@@ -13,7 +13,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
 https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",TV Globo São Paulo
-https://live-as-01-18.video.globo.com/h/0401661364115903808352116612777158460654028_2qDgYlZCG2Mkp51Mi8Pkg/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/KJo8DRjzTFuxft_PfTeNMA/stream/270feb94-d4bf-4d23-8e53-0e9c0d576858:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
+https://cdn2.embedflix.net/p2p/globosp/chunks.m3u8?nimblesessionid=2769&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDIyIDU6NTg6MzAgUE0maGFzaF92YWx1ZT12Mmt4bm4vcjUrdnhTMTdBM001cXF3PT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER TV SHOW SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6328cc665a1b38bea0afe6e518fbdca5.webp" group-title="CANAIS ABERTOS" ,MASTER TV SHOW SD
 https://mastershowtv.videovox.pw:443/master6123/master6123/chunklist_w935811040.m3u8
@@ -67,7 +67,7 @@ https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZREmaZ-wBSFR__IXDY
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w643317952.m3u8
 
 #EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA SP HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e203baa61a997851f879286d0e262b59.webp" group-title="CANAIS ABERTOS" ,TV Gazeta
-https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vxgjJPt7yQly4ix3zalDldD286yGmWJ9K5Ro1A0pq8c0)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v7yq30udjMd0wOdgtO7xdQCiD16R41OeRO5kNceo9u3P)/dm/3/x89qors/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LIBERDADE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3a52ba9e9fac75423d678ea2f9294f7.webp" group-title="CANAIS ABERTOS" ,TV LIBERDADE HD
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w27849746.m3u8
