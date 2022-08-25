@@ -4,7 +4,7 @@
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_e19afca3-3a34-4f9a-a4a6-88ae4fd749f5.m3u8
 
 #EXTINF:-1 tvg-id="Band HD" tvg-name="BAND SP HD" tvg-logo="https://varioscanais.com/wp-content/uploads/2019/08/TV-Band-MT-300x300.png" group-title="CANAIS ABERTOS",Band São Paulo
-https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjb14ZroiVFQ-1R94f0jiCl1twW0MERN7HFfGacBP5q2)/dm/3/x82cxbb/d/live-4.m3u8#cell=lsv4
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpxtTbYIMm9KzIIJUis_j6iCxFGbJ9L9s7NCWm63WGs0)/dm/3/x82cxbb/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="Cnt" tvg-name="CNT SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/646ee5304b659c7c667285357508fc07.webp" group-title="CANAIS ABERTOS",CNT SD
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
@@ -13,7 +13,7 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
 https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",TV Globo São Paulo
-https://cdn2.embedflix.net/p2p/globosp/chunks.m3u8?nimblesessionid=2769&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDIyIDU6NTg6MzAgUE0maGFzaF92YWx1ZT12Mmt4bm4vcjUrdnhTMTdBM001cXF3PT0mdmFsaWRtaW51dGVzPTkw
+https://live-as-02-31.video.globo.com/h/0401661520167232958993916614337674045345304cenScTRarTR41f2rC7AzVw/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/f(dvr=180,i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/6SkZHw_XT_WJbXNoDj_K5A/stream/c335ea91-2578-4df6-ba4d-a1eb4d4366fe:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MASTER TV SHOW SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6328cc665a1b38bea0afe6e518fbdca5.webp" group-title="CANAIS ABERTOS" ,MASTER TV SHOW SD
 https://mastershowtv.videovox.pw:443/master6123/master6123/chunklist_w935811040.m3u8
@@ -61,13 +61,13 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w773981059.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TV Diario" tvg-name="TV DIÁRIO HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/9fffa9770a0e7d7bc0db38ea00abd7a0.webp" group-title="CANAIS ABERTOS" ,TV Diário
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZREmaZ-wBSFR__IXDYdUG29xM2Jc31MMU6Eur0hpe6yP)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbjqZFm2kVVT9feLErD1etWlq7MZ-8CfSjyamftiyXEL)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb6da5dab7f3e21853e5719473fc29f0.webp" group-title="CANAIS ABERTOS" ,TVE
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w643317952.m3u8
 
 #EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA SP HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e203baa61a997851f879286d0e262b59.webp" group-title="CANAIS ABERTOS" ,TV Gazeta
-https://stream-04.sv4.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v7yq30udjMd0wOdgtO7xdQCiD16R41OeRO5kNceo9u3P)/dm/3/x89qors/d/live-4.m3u8#cell=lsv4
+https://stream-02.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vyGDKBL4aJw3srl9gnHFP2fbSQvUbL4mkU5Drif8PYvL)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LIBERDADE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3a52ba9e9fac75423d678ea2f9294f7.webp" group-title="CANAIS ABERTOS" ,TV LIBERDADE HD
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w27849746.m3u8
@@ -109,16 +109,16 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w845767721.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://media.cdnandroid.com/71/f7/2f/27/imagen-band-sports-0big.jpg" group-title="CANAIS ABERTOS" ,Band Sports
-https://aipaipara.xyz/band-sports/tracks-v1a1/mono.m3u8?token=a49279dd10b76eb0787f563bcce6ec71f4702cb1-49543d9d8b7c47226dc10769432d4566-1661281076-1661277476
+https://live.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=15112&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDIyIDE6MTg6MTIgUE0maGFzaF92YWx1ZT1OYXpRdkRaWFJoRWJzMWJVVmRFdHhRPT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh31LPRrdfJzKVEyBmWzGGQXderoZ4qxoGvoYv1Mjc8Hp8pDhdWJFEc2wBDQuITFGQUOw&usqp=CAU" group-title="CANAIS ABERTOS" ,Band News
-https://aipaipara.xyz/br/band-news/tracks-v1a1/mono.m3u8?token=d0550a4bbc68ebc5f1c448c20e0f1b7cfd7cca3a-151fca2487247387f285a6434d6d0b1a-1661281206-1661277606
+https://aipaipara.xyz/br/band-news/tracks-v1a1/mono.m3u8?token=c9fe41085c3e67e09e6054854d14b04c6914d346-2c3d86005b0acf5b71407fb4c7e6b10a-1661436928-1661433328
 
 #EXTINF:-1 tvg-id="" tvg-name="Vintge tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAIS ABERTOS" ,Vintge tv
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1536059570.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/premiere-clube.jpg" group-title="CANAIS ABERTOS" ,Premiere Clubes
-https://aipaipara.xyz/br/premiereclube/tracks-v1a1/mono.m3u8?token=f302bede466b98b5294e99f5d38e0bf11bb57f2d-4d0589972603ce5d45295287cbb5e0e6-1661366918-1661363318
+https://aipaipara.xyz/br/premiereclube/tracks-v1a1/mono.m3u8?token=c6b47319047448df4f33a3d43c48aa4e62f47068-427e8d197266c995d7a9461c67c0dd44-1661436298-1661432698
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Brasil" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/Discovery-Turbo.jpg" group-title="CANAIS ABERTOS" ,Discovery Turbo Brasil
-https://live.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=8766&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDIyIDU6NTU6MDUgUE0maGFzaF92YWx1ZT1aWlRRUkxTeHFxeEJGeHN6cm1teEpBPT0mdmFsaWRtaW51dGVzPTkw
+https://live.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=15085&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDIyIDE6MTE6MDQgUE0maGFzaF92YWx1ZT0yRm81QUNTQU1zWmVISWFsTFZnbURBPT0mdmFsaWRtaW51dGVzPTkw
