@@ -13,7 +13,8 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_360p614k/index.m3u8
 https://tv.unisc.br/hls/test.m3u8
 
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="https://varioscanais.com/wp-content/uploads/2021/08/Globo-e1648634360921-266x266.jpg" group-title="CANAIS ABERTOS",TV Globo São Paulo
-https://live-01.edge-vivo-vm-sp.video.globo.com/h/0401661692546512493578216616061468921699820rKG9kHOfPPAu1NUhgAZ5Hw/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/f(dvr=180,i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/6SkZHw_XT_WJbXNoDj_K5A/stream/19612055-347c-4e8b-9397-4877c6de61c1:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
+https://live-as-08-24.video.globo.com/h/0401661704287109846566616616178877950945389rpJ8rkLY5v85OUHGz11vQg/k/html5/a/F/u/a523c169-a902-485b-98bb-f0d3fd39e3d9/nu/f(dvr=180,i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/6SkZHw_XT_WJbXNoDj_K5A/stream/9a9fd9fd-76d9-497a-9358-37fa57f10c4a:SCL/variant/d5c201e81379c9f6279973a1b5225876/bandwidth/4127000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MASTER TV SHOW SD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6328cc665a1b38bea0afe6e518fbdca5.webp" group-title="CANAIS ABERTOS" ,MASTER TV SHOW SD
 https://mastershowtv.videovox.pw:443/master6123/master6123/chunklist_w935811040.m3u8
 
@@ -108,16 +109,16 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w845767721.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://media.cdnandroid.com/71/f7/2f/27/imagen-band-sports-0big.jpg" group-title="CANAIS ABERTOS" ,Band Sports
-https://server100.online/band-sports/tracks-v1a1/mono.m3u8?token=37391e76fcadf8aced4658941f73675cb1691ee9-c76357c88745c54a30e06c845cff6365-1661610465-1661606865
+https://live.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=48532&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDQ6MzA6MjggUE0maGFzaF92YWx1ZT0wQXdubFJPdmNUT3B1WjZSbVM1Sk9RPT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh31LPRrdfJzKVEyBmWzGGQXderoZ4qxoGvoYv1Mjc8Hp8pDhdWJFEc2wBDQuITFGQUOw&usqp=CAU" group-title="CANAIS ABERTOS" ,Band News
-https://aipaipara.xyz/band-news/tracks-v1a1/mono.m3u8?token=549af1b576fd28b055b86bd6d5c9097500aedf36-42d33102e0018e19614a987d71997e6f-1661610151-1661606551
+https://aipaipara.xyz/br/band-news/tracks-v1a1/mono.m3u8?token=d2982b59f17aa23d34e3074741f2b30b726fc29b-04813775ca3ec69aed48b84a644f8561-1661621085-1661617485
 
 #EXTINF:-1 tvg-id="" tvg-name="Vintge tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAIS ABERTOS" ,Vintge tv
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1536059570.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/premiere-clube.jpg" group-title="CANAIS ABERTOS" ,Premiere Clubes
-https://embed.superfutebol.tv/hls.html?data=a2JnbDJzTG9VdTJBMk5KVnQ5aHdCN1lPQk9DV0NzRnd5UmVJRkJZV3VaR3VxTUszLzJzL3JyV01GbWJkYTFTOVIyY1QwUU1BeUJHOG51cFJVVDhXSGc9PTo6AFJJAq3dK%2FCS2KuQ%2BklcVA%3D%3D&url=cUc2TnUvRllSK3lFcURDTks5dVNsK1JpNWdWcmFYQXdjV3pFaDk2NnRNVFdZYituQ0VOVlA5TUlSMWc2d01rZjAxdFVzN3BmeW5mQ2liTE9hR0dMK2c9PTo6bA2Z37mWAeQ4pr%2BHTa8FJQ%3D%3D&live=false&token=WkptYmZuQVQ5YzN5cXBEdFp0Rng2Zz09Ojpr%2FAyzqE8noJv3F%2FgZc0ga
+https://aipaipara.xyz/br/premiereclube/tracks-v1a1/mono.m3u8?token=24c75fc6ddc4da502781bafb542994adb6d57712-141dde94853a02918c22571f5287fcd1-1661620989-1661617389
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Brasil" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/Discovery-Turbo.jpg" group-title="CANAIS ABERTOS" ,Discovery Turbo Brasil
-https://live.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=15085&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDIyIDE6MTE6MDQgUE0maGFzaF92YWx1ZT0yRm81QUNTQU1zWmVISWFsTFZnbURBPT0mdmFsaWRtaW51dGVzPTkw
+https://live.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=48426&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDQ6Mjc6MTMgUE0maGFzaF92YWx1ZT1wR3FEa3k0WS9EZC9NTkRFV2ozYmt3PT0mdmFsaWRtaW51dGVzPTkw
