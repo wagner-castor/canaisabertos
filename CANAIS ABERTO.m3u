@@ -67,7 +67,7 @@ https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZcFOJYT8GynBrHhb6W
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w643317952.m3u8
 
 #EXTINF:-1 tvg-id="Gazeta" tvg-name="TV GAZETA SP HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e203baa61a997851f879286d0e262b59.webp" group-title="CANAIS ABERTOS" ,TV Gazeta
-https://stream-01.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vwE9Ulv1euMv31dL5JDu1fOox4iaQb2vbl6MrgfVizlw)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vwE9Ulv1euMv31dL5JDu1fOox4iaQb2vbl6MrgfVizlw)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LIBERDADE HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3a52ba9e9fac75423d678ea2f9294f7.webp" group-title="CANAIS ABERTOS" ,TV LIBERDADE HD
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/chunklist_w27849746.m3u8
@@ -109,16 +109,16 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w845767721.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://media.cdnandroid.com/71/f7/2f/27/imagen-band-sports-0big.jpg" group-title="CANAIS ABERTOS" ,Band Sports
-https://live.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=48532&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDQ6MzA6MjggUE0maGFzaF92YWx1ZT0wQXdubFJPdmNUT3B1WjZSbVM1Sk9RPT0mdmFsaWRtaW51dGVzPTkw
+https://live.embedflix.net/p2p/bandsport/chunks.m3u8?nimblesessionid=50625&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDY6MTE6MDAgUE0maGFzaF92YWx1ZT01K3k4cWFPcXI5N3l4bkk0TzU3K3VnPT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh31LPRrdfJzKVEyBmWzGGQXderoZ4qxoGvoYv1Mjc8Hp8pDhdWJFEc2wBDQuITFGQUOw&usqp=CAU" group-title="CANAIS ABERTOS" ,Band News
-https://aipaipara.xyz/br/band-news/tracks-v1a1/mono.m3u8?token=d2982b59f17aa23d34e3074741f2b30b726fc29b-04813775ca3ec69aed48b84a644f8561-1661621085-1661617485
+https://aipaipara.xyz/br/band-news/tracks-v1a1/mono.m3u8?token=18f4baf164ce06863aaf6aeba547078419326a2d-4da13a2f6c9d6a8743656345c3a3f995-1661627225-1661623625
 
 #EXTINF:-1 tvg-id="" tvg-name="Vintge tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAIS ABERTOS" ,Vintge tv
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1536059570.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/premiere-clube.jpg" group-title="CANAIS ABERTOS" ,Premiere Clubes
-https://aipaipara.xyz/br/premiereclube/tracks-v1a1/mono.m3u8?token=24c75fc6ddc4da502781bafb542994adb6d57712-141dde94853a02918c22571f5287fcd1-1661620989-1661617389
+https://aipaipara.xyz/premiereclube/tracks-v1a1/mono.m3u8?token=7f02f60aa1d3e5fe7a296bcc98bb35503eca5d1a-9238b182a02c924e2aea8d44605fd9f0-1661626867-1661623267
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Brasil" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/Discovery-Turbo.jpg" group-title="CANAIS ABERTOS" ,Discovery Turbo Brasil
-https://live.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=48426&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDQ6Mjc6MTMgUE0maGFzaF92YWx1ZT1wR3FEa3k0WS9EZC9NTkRFV2ozYmt3PT0mdmFsaWRtaW51dGVzPTkw
+https://live.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=50584&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDY6MDc6MjQgUE0maGFzaF92YWx1ZT1GdWlBekp2MDU0dnJPZ1RaZUEzdXFnPT0mdmFsaWRtaW51dGVzPTkw
