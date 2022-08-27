@@ -125,3 +125,15 @@ https://live.embedflix.net/p2p/discoveryturbo/chunks.m3u8?nimblesessionid=50584&
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/espn.jpg" group-title="CANAIS ABERTOS" ,ESPN Brasil
 https://embed.superfutebol.tv/playlist.m3u8?data=QzJQQ21weDZuWHBFM2creEt0Q1ZGRGQ3NS9yNUswYTY3NEJ4bzNlY0sxbmZXTFhPQWJ4T1BkSEpDNi83ZzFaOTo6Sk8ESwrrUpvcIP0oFthseQ%3D%3D&url=eWx6akMrcjZRcWFWaFZQWStjbmRWc1I4UDlkTGUwTEVHV2FpU0dIU1RLK1N1dEZOK05Gbjc1dXh2MWNmaE55Vzo6olUs0Q7xX59kNUekyvKJUw%3D%3D&live=false&token=VlZacjkvbHFzaHRVanRhVWJlZitYUT09OjrtOlnEawlFdeUiVwAVoeze
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/TNT-SPORTS.jpg" group-title="CANAIS ABERTOS" ,TNT SPORTS 8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/TNT-SPORTS.jpg" group-title="CANAIS ABERTOS" ,TNT SPORTS 7
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/TNT-SPORTS.jpg" group-title="CANAIS ABERTOS" ,TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/TNT-SPORTS.jpg" group-title="CANAIS ABERTOS" ,TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
