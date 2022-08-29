@@ -137,3 +137,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://superfutebol.tv/wp-content/uploads/2022/02/TNT-SPORTS.jpg" group-title="CANAIS ABERTOS" ,TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="CANAIS ABERTOS" ,Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
